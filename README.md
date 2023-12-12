@@ -2,9 +2,9 @@
 
 <h2>Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
 
-<img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9f86f1dc-8653-4037-90b6-d9ed13aafde5" 
+<img style="width: 40%; height: 40%; display: block; margin: auto;" src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9f86f1dc-8653-4037-90b6-d9ed13aafde5" 
      alt="WhatsApp Image 2023-12-13 at 00 20 55_62753a91" 
-     style="width: 80%; height: 40%; object-fit: cover; display: block; margin: auto;">
+     >
 
 
 
