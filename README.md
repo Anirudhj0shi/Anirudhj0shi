@@ -1,10 +1,13 @@
 <h1>Hi there, I'm Anirudh joshi ! 👋</h1>
 
 <h2>Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
+<div style="height=200px" >
+  
+![WhatsApp Image 2023-12-13 at 00 20 55_62753a91](https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9f86f1dc-8653-4037-90b6-d9ed13aafde5)
+</div>
+  
 
-<!-- Insert a GIF or an image here -->
-<img src="![WhatsApp Image 2023-12-13 at 00 20 55_62753a91](https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9596771e-e8e5-4f80-bf94-52bd1bdd8757)
-" height=50% width=50%/>
+
 
 
 ## Skills
