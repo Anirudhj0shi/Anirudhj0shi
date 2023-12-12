@@ -3,7 +3,8 @@
 <h2>Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
 
 <!-- Insert a GIF or an image here -->
-WhatsApp Image 2023-12-13 at 00 20 55_62753a91](https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/c8e560d0-744e-44c1-8e9b-41442d7c0ac2
+<img src="![WhatsApp Image 2023-12-13 at 00 20 55_62753a91](https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9596771e-e8e5-4f80-bf94-52bd1bdd8757)
+" height=50% width=50%/>
 
 
 ## Skills
