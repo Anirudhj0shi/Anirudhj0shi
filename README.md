@@ -1,23 +1,49 @@
-<h1>Hi there, I'm Anirudh joshi ! 👋</h1>
 
-<h2>Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
+<h1 align="center">Hi there, I'm Anirudh joshi ! 👋</h1>
 
-<img style="width: 40%; height: 40%; display: block; margin: auto;" src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9f86f1dc-8653-4037-90b6-d9ed13aafde5" 
+<h2 align="center">Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
+
+<img style="width: 40%; height: 40%; display: block;" src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/9f86f1dc-8653-4037-90b6-d9ed13aafde5" 
      alt="WhatsApp Image 2023-12-13 at 00 20 55_62753a91" 
      >
 
+#
+<h3 align="left">:hammer_and_wrench: Web Development Tools</h3>
 
+<div align="left">
+  <!-- html -->
+  <img src="https://tse3.mm.bing.net/th?id=OIP.XgkUBvdmisPeQOedqfUU-gHaGY&pid=Api&P=0&h=180" height="40" alt="go logo"  />
+  <img width="12" />
+  <!-- css -->
+  <img src="https://tse1.mm.bing.net/th?id=OIP.LAgpFhWtythAq3saUAwsewHaKY&pid=Api&P=0&h=180" height="40" alt="rust logo"  />
+  <img width="12" />
+  <!-- js -->
+  <img src="https://tse4.mm.bing.net/th?id=OIP.TEgFPtleKKLsfG47eEscFgHaHa&pid=Api&P=0&h=180" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <!-- react -->
+  <img src="https://tse1.explicit.bing.net/th?id=OIP.K-4RqDC6zFrpAG31ayDDOgHaHa&pid=Api&P=0&h=180" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <!-- tailwaind css  -->
+  <img src="https://tse2.mm.bing.net/th?id=OIP.o7c7ftXCLdQDsfE9NkWCvwHaGb&pid=Api&P=0&h=180" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <!-- bootsratp -->
+  <img src="https://tse3.mm.bing.net/th?id=OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN&pid=Api&P=0&h=180" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+</div>
+<!-- programing tools -->
+<h3 align="left">:hammer_and_wrench: Programming languages</h3>
+<div align="left">
+  <!-- c -->
+  <img src="https://tse2.mm.bing.net/th?id=OIP.w9AIOO6Cfup6aToV1E-dEQHaIr&pid=Api&P=0&h=180" height="40" alt="go logo"  />
+  <img width="12" />
+  <!-- cpp -->
+  <img src="https://tse4.mm.bing.net/th?id=OIP.ggb-3B-8LRfbgS0lPLYNxwAAAA&pid=Api&P=0&h=180" height="40" alt="rust logo"  />
+  <img width="12" />
+  <!-- java -->
+  <img src="https://tse2.mm.bing.net/th?id=OIP.1oR7lANeRM9fZJyYDdD_YwHaFj&pid=Api&P=0&h=180" height="40" alt="ruby logo"  />
+  <img width="12" />
+</div>
 
-
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
-
-[Describe your skills, languages, technologies, or tools that you specialize in or are proficient with.]
 
 ## Get in Touch
 
