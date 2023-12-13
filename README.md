@@ -1,4 +1,4 @@
-![aniki 1](https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/4555d930-e219-4352-b288-5676e6cc6cf4)
+
 <h1 align="center">Hi there, I'm Anirudh joshi ! 👋</h1>
 
 <h2 align="center">Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
