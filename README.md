@@ -8,9 +8,9 @@
 </div>
 
 #
-<h3 align="left">:hammer_and_wrench: Web Development Tools</h3>
+<h3 align='center'>:hammer_and_wrench: Web Development Tools</h3>
 
-<div align="left">
+<div align='center'>
   <!-- html -->
   <img src="https://tse3.mm.bing.net/th?id=OIP.XgkUBvdmisPeQOedqfUU-gHaGY&pid=Api&P=0&h=180" height="40" alt="go logo"  />
   <img width="12" />
@@ -31,8 +31,8 @@
   <img width="12" />
 </div>
 <!-- programing tools -->
-<h3 align="left">:hammer_and_wrench: Programming languages</h3>
-<div align="left">
+<h3 align='center'>:hammer_and_wrench: Programming languages</h3>
+<div align='center'>
   <!-- c -->
   <img src="https://tse2.mm.bing.net/th?id=OIP.w9AIOO6Cfup6aToV1E-dEQHaIr&pid=Api&P=0&h=180" height="40" alt="go logo"  />
   <img width="12" />
@@ -47,11 +47,8 @@
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your_username)
-- Personal Website: [Your Website](https://yourwebsite.com)
-
-[Include links to your social media profiles or personal website to connect with you.]
+- LinkedIn: www.linkedin.com/in/anirudh-joshi-29ab37290
+- Twitter: https://x.com/Anirudh82544683?t=dHgpASaygqDSzE5atttgEw&s=08 
 
 <!-- You can add more sections, such as projects, achievements, or interests, as needed -->
 
