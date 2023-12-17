@@ -46,8 +46,9 @@
 
 
 ## Get in Touch
-
-- LinkedIn: www.linkedin.com/in/anirudh-joshi-29ab37290
+<div class="Linkdin">
+<a href="www.linkedin.com/in/anirudh-joshi-29ab37290" ><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/5ab492a7-4098-4e61-9616-1844e33650fe" /></a>
+</div>
 - Twitter: https://x.com/Anirudh82544683?t=dHgpASaygqDSzE5atttgEw&s=08 
 
 <!-- You can add more sections, such as projects, achievements, or interests, as needed -->
