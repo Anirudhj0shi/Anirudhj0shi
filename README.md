@@ -49,6 +49,10 @@
 <div class="Linkdin">
 <a href="www.linkedin.com/in/anirudh-joshi-29ab37290" ><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/5ab492a7-4098-4e61-9616-1844e33650fe" /></a>
 </div>
+
+<div class="Twitter">
+  <a href="https://x.com/Anirudh82544683?t=dHgpASaygqDSzE5atttgEw&s=08"><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/29f81a2e-93ff-4032-8f51-d7adbc760a71" /></a>
+</div>
 - Twitter: https://x.com/Anirudh82544683?t=dHgpASaygqDSzE5atttgEw&s=08 
 
 <!-- You can add more sections, such as projects, achievements, or interests, as needed -->
