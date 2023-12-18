@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Anirudh joshi ! 👋</h1>
 
 <h2 align="center">Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
@@ -8,18 +7,18 @@
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------
-<h1>My Github Stats</h1>
 <div align="center" id="github-stats" style="width: 400px; height: 200px;">
+<h1 align="left">:muscle:My Github Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Anirudhj0shi" alt="GitHub Stats">
   <br />
   <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhj0shi&theme=tokyonight" />
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------
-
-<h3>:hammer_and_wrench: Skills</h3>
-
 <div>
+
+<h2>:hammer_and_wrench: Skills</h2><br />
+
   <!--c -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <!--c++ -->
@@ -61,11 +60,10 @@
   
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   
-  
-  
+ --------------------------------------------------------------------------------------------------------
 
 
-## Get in Touch
+## 👉 Get in Touch 👈
 <div class="Getontouch">
   <a href="https://www.linkedin.com/in/anirudh-joshi-29ab37290/" ><img         
   src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/5ab492a7-4098-4e61-9616-1844e33650fe" /></a>
