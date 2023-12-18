@@ -7,6 +7,12 @@
 <img style="width: 40%; height: 40%; display:flex;" src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/be7ec740-9e30-463b-bbe3-2b047d19b100" />
 </div>
 
+-------------------------------------------------------------------------------------------------------------------------------------
+<h1>My Github Stats</h1>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirudhj0shi" />
+</div>
+
 #
 
 
