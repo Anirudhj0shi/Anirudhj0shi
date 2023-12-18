@@ -9,8 +9,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------
 <h1>My Github Stats</h1>
-<div id="github-stats" style="width: 400px; height: 200px;">
+<div align="center" id="github-stats" style="width: 400px; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Anirudhj0shi" alt="GitHub Stats">
+  <br />
+  <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhj0shi&theme=tokyonight" />
 </div>
 
 
