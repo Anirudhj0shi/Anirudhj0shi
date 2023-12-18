@@ -15,9 +15,7 @@
   <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhj0shi&theme=tokyonight" />
 </div>
 
-
-#
-
+-------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>:hammer_and_wrench: Skills</h3>
 
