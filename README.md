@@ -12,39 +12,50 @@
 
 <h3>:hammer_and_wrench: Skills</h3>
 
-<div align='center'>
-  <!-- html -->
-  <img src="https://tse3.mm.bing.net/th?id=OIP.XgkUBvdmisPeQOedqfUU-gHaGY&pid=Api&P=0&h=180" height="40" alt="go logo"  />
-  <img width="12" />
-  <!-- css -->
-  <img src="https://tse1.mm.bing.net/th?id=OIP.LAgpFhWtythAq3saUAwsewHaKY&pid=Api&P=0&h=180" height="40" alt="rust logo"  />
-  <img width="12" />
-  <!-- js -->
-  <img src="https://tse4.mm.bing.net/th?id=OIP.TEgFPtleKKLsfG47eEscFgHaHa&pid=Api&P=0&h=180" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <!-- react -->
-  <img src="https://tse1.explicit.bing.net/th?id=OIP.K-4RqDC6zFrpAG31ayDDOgHaHa&pid=Api&P=0&h=180" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <!-- tailwaind css  -->
-  <img src="https://tse2.mm.bing.net/th?id=OIP.o7c7ftXCLdQDsfE9NkWCvwHaGb&pid=Api&P=0&h=180" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <!-- bootsratp -->
-  <img src="https://tse3.mm.bing.net/th?id=OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN&pid=Api&P=0&h=180" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-</div>
-<!-- programing tools -->
-<h3 align='center'>:hammer_and_wrench: Programming languages</h3>
-<div align='center'>
-  <!-- c -->
-  <img src="https://tse2.mm.bing.net/th?id=OIP.w9AIOO6Cfup6aToV1E-dEQHaIr&pid=Api&P=0&h=180" height="40" alt="go logo"  />
-  <img width="12" />
-  <!-- cpp -->
-  <img src="https://tse4.mm.bing.net/th?id=OIP.ggb-3B-8LRfbgS0lPLYNxwAAAA&pid=Api&P=0&h=180" height="40" alt="rust logo"  />
-  <img width="12" />
-  <!-- java -->
-  <img src="https://tse2.mm.bing.net/th?id=OIP.1oR7lANeRM9fZJyYDdD_YwHaFj&pid=Api&P=0&h=180" height="40" alt="ruby logo"  />
-  <img width="12" />
-</div>
+<div>
+  <!--c -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <!--c++ -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <br />
+  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <br />
+
+  <img src="https://camo.githubusercontent.com/72b1d81a8e93ca61619051a50df70c356fee03fae57bed9582727b0db5ad54b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861744750542d3734616139633f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465" />
+  
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=Yellow" />
+
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  
+  
+  
 
 
 ## Get in Touch
