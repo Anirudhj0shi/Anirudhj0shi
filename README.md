@@ -8,7 +8,9 @@
 </div>
 
 #
-<h3 align='center'>:hammer_and_wrench: Web Development Tools</h3>
+
+
+<h3>:hammer_and_wrench: Skills</h3>
 
 <div align='center'>
   <!-- html -->
