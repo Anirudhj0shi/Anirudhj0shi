@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anirudh joshi ! </h1>
 
-<h2 align="center">Empowering the athletic spirit while mastering MERN Full Stack development.</h2>
+<h2 align="center">Empowering the athletic spirit while mastering MERN Full Stack development..</h2>
 
 <div align='center'>
 <img style="width: 40%; height: 40%; display:flex;" src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/be7ec740-9e30-463b-bbe3-2b047d19b100" />
