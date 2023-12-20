@@ -13,7 +13,7 @@
   <br />
   <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhj0shi&theme=tokyonight" />
 </div>
-.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 <div>
 
