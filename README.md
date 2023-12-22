@@ -71,7 +71,9 @@
     
   <a href="https://x.com/Anirudh82544683?t=dHgpASaygqDSzE5atttgEw&s=08"><img          
   src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/29f81a2e-93ff-4032-8f51-d7adbc760a71" /></a>
-</div>
+
+ <a href="janirudh5525@gmail.com"><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/466037ed-d8ae-4670-b361-f60ae818a390"/></a>
+
 
 
 <!-- You can add more sections, such as projects, achievements, or interests, as needed -->
