@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <br />
 
-  <img src="https://camo.githubusercontent.com/72b1d81a8e93ca61619051a50df70c356fee03fae57bed9582727b0db5ad54b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861744750542d3734616139633f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465" />
-  
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=Yellow" />
 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
