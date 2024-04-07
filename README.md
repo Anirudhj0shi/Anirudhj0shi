@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Anirudh joshi . </h1>
+<h1 align="center">Hi there 👋, I'm Anirudh joshi .. </h1>
 
 <h2 align="center">Empowering the athletic spirit while mastering MERN Full Stack development..</h2>
 
