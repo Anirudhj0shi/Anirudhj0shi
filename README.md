@@ -63,14 +63,13 @@
 
 
 ## 👉 Get in Touch 👈
-<div class="Getontouch">
-  <a href="https://www.linkedin.com/in/anirudh-joshi-29ab37290/" ><img         
-  src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/5ab492a7-4098-4e61-9616-1844e33650fe" /></a>
-    
-  <a href="https://x.com/Anirudh82544683?t=dHgpASaygqDSzE5atttgEw&s=08"><img          
-  src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/29f81a2e-93ff-4032-8f51-d7adbc760a71" /></a>
 
- <a href="janirudh5525@gmail.com"><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/466037ed-d8ae-4670-b361-f60ae818a390"/></a>
+ <div class="Getontouch" display="flex">
+
+<a href="https://www.linkedin.com/in/anirudh-joshi-29ab37290/"><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/5ab492a7-4098-4e61-9616-1844e33650fe" /></a>
+<a href="https://www.geeksforgeeks.org/user/anirudhjoshi2001/"><img src="https://github.com/Bhumika-2294/Bhumika-2294/assets/121390329/706b600f-1b2d-4ba7-b5ce-c7783966d81a" /></a>
+<a href="https://leetcode.com/anirudhjoshice19/"><img src="https://github.com/Bhumika-2294/Bhumika-2294/assets/121390329/7ddc0cc0-547b-4335-add9-bf45a06ddea4"/></a>
+<a href="janirudh5525@gmail.com"><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/466037ed-d8ae-4670-b361-f60ae818a390"/></a>
 
 
 
