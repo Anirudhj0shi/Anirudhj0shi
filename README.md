@@ -12,7 +12,7 @@
 
   <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudhj0shi&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirudhj0shi" alt="GitHub Stats">
+  
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------
